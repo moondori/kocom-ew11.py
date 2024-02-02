@@ -3,7 +3,7 @@
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
 ## About
-Kocom Wallpad with RS485 for 광명 신촌휴먼시아1단지
+Kocom Wallpad with RS485 for humansia
 
 ## Installation
 
